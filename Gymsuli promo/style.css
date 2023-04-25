@@ -18,6 +18,16 @@ nav{
     width: 100%;
     justify-content: space-around;
     height: 80px;
+    line-height: 80px;
     z-index: 111;
     background-color: gray;
+}
+.Logo{
+    display: flex;
+    font-size: 40px;
+    font-weight: 800;
+    color: #FFD700;
+    letter-spacing: 3px;
+    cursor: pointer;
+    text-transform: uppercase;
 }
