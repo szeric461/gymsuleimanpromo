@@ -11,7 +11,6 @@ body{
 .container{
     width: 100%;
     min-height: 100vh;
-    background-color: #f3f5f8;
 }
 nav{
     display: flex;
@@ -74,7 +73,7 @@ nav{
 }
 h1{
     display: block;
-    font-size: 7em;
+    font-size: 4em;
     font-weight: 700;
     color: #3d535f;
 }
@@ -90,14 +89,14 @@ p{
 }
 .imgbox{
     position: relative;
-    width: 100%;
+    width: 150%;
     height: 100%;
 
 }
 .imgbox img{
     position: relative;
-    height: 100%;
-    width: calc(130%);
-    top: -100px;
-    right: 50px;
+    height: 70%;
+    width: 150%;
+    top: 170px;
+    right: 100px;
 }
